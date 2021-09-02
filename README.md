@@ -6,6 +6,7 @@ Scanning Multiple Targets option has been added in this 2.0 version.
 
 :page_facing_up: Linux Install:
 _______________________________________________________________________
+
 1. Clone this repo in your system
 
        git clone https://github.com/mhm-111/port_scanner_2.0
@@ -19,7 +20,8 @@ _______________________________________________________________________
        python3 port_scanner_2.0.py
 
 
-Usage :
+ Usage :
+-----------------------
 
 1. You can use single target . Just enter the ip or domain name.
 2. You can use the multiple targets. You have to separate targets by comma.
@@ -29,8 +31,8 @@ Usage :
 
 >>> If you face any problem , feel free to contact with us :grinning: .
 
-____________________________________________________
+_________________________________________________________________________________________________________________________________
                                                      Thank you  
-______________________________________________________
+_________________________________________________________________________________________________________________________________
 
 
